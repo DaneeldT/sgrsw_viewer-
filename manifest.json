@@ -1,0 +1,11 @@
+{
+  "name": "SGRSW Viewer - City of Cape Town Roads & Stormwater Standards",
+  "short_name": "SGRSW Viewer",
+  "description": "Browse and search the City of Cape Town's Standards and Guidelines for Roads & Stormwater (Version 4.0)",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAFAF7",
+  "theme_color": "#1B3A4B",
+  "orientation": "portrait-primary",
+  "icons": []
+}
